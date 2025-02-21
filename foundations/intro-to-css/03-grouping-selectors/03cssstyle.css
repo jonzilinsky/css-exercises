@@ -1,0 +1,15 @@
+/* styles.css */
+
+button {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.upup {
+  background-color: #000000;
+  color: white;
+}
+
+.downdown {
+  background-color: #FFFF00;
+}

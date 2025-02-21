@@ -1,0 +1,21 @@
+/* styles.css */
+
+p {
+  background-color: #FFB6C1;
+  font-family: Vrdana, "DejaVu Sans", sans-serif
+}
+
+.blue-text {
+  color: #0000FF;
+  font-size: 36px;
+}
+
+.font24 {
+  font-size: 24px;
+}
+
+.green-backround {
+  background-color: #90EE90;
+  font-size: 24px;
+  font-weight: bold;
+}
